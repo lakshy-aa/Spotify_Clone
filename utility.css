@@ -1,0 +1,10 @@
+.invert{
+    filter: invert(1);
+}
+
+.pointer{
+    cursor: pointer;
+}
+.border{
+    border: 2px solid rgb(225, 210, 210) !important ;
+}
