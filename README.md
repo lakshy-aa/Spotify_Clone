@@ -12,6 +12,14 @@
 - CSS
 - JavaScript
 
+## Project Screenshots:
+![Musifyy Screenshot 1](ss1.png)
+![Musifyy Screenshot 2](ss2.png)
+
+
+## Note:
+Due to GitHub Pages' file size limitations, the songs are not playable here. However, you can check out the fully working project on the external live demo link below.
+
 ## Live Demo:
 [Live Demo Link]( https://lakshy-aa.github.io/Spotify_Clone/)
 
