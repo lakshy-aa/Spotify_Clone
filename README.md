@@ -13,7 +13,7 @@
 - JavaScript
 
 ## Live Demo:
-[Live Demo Link](https://username.github.io/Musifyy)
+[Live Demo Link]( https://lakshy-aa.github.io/Spotify_Clone/)
 
 ## How to Run:
 1. Clone the repository.
